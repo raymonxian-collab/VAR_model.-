@@ -56,4 +56,4 @@ Python, pandas, numpy, scipy, yfinance, matplotlib — built in Google Colab.
 
 ## Notebook
 
-[View the notebook](https://github.com/raymonxian-collab/VAR_model/blob/main/VAR_MODEL.ipynb)
+[View the VAR model notebook](https://github.com/raymonxian-collab/VAR_model.-/blob/main/VAR_MODEL.ipynb)
